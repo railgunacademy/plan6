@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: lesson
 title: Essential Software for Academics | Railgun Academy
 root: ..
 ---
