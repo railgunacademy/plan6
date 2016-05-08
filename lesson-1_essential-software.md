@@ -1,3 +1,9 @@
+---
+layout: default
+title: Essential Software for Academics | Railgun Academy
+root: ..
+---
+
 # Essential Software for Academics
 
 Computers are an essential part of the academic researcher's routine. Computer programs are typically used for three main purposes:
