@@ -2,6 +2,13 @@
 layout: lesson
 title: Essential Software for Academics | Railgun Academy
 root: ..
+nav:
+   - PuTTY/XQuartz
+   - Inkscape
+   - Emacs
+   - LaTeX Interpreter
+   - Dropbox
+   - Reference Manager
 ---
 
 # Essential Software for Academics
