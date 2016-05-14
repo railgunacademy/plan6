@@ -10,8 +10,10 @@ Computers are an essential part of the academic researcher's routine. Computer p
 
 Finding, reding and managing scientific content
 : Searching for scientific literature, saving and managing collection of journal articles.
+
 Using computers for scientific computation
 : Writing programs for modeling or carrying out complex calculations, generating data for journal articles, statistical analysis.
+
 Writing journal articles
 : Writing papers and collaborating with co-authors, managing and inserting citations, creating figures.
 
