@@ -22,7 +22,7 @@ This session introduces some essential softwares beyond the ones that come with 
 * [Windows](https://ftp.gnu.org/gnu/emacs/windows/)
 * Linux: Generally installed by default
 
-![Emacs screenshot](img/lesson-1_screenshot_emacs.png)
+![Emacs screenshot](plan6-img/lesson-1_screenshot_emacs.png)
 
 Emacs is a text editor just like Notepad, Wordpad or TextEdit. There are a few good reasons to use it instead of the default text editor in the operating system. First, it is very efficient when working with larger files. In the scientific community, files exceeding 10 MB in size are common. Second, it supports highligting and indentation of computer programs in many common programming languages. Highlighting chnages the color of different types of text in the computer program, e.g. a FOR loop directive will be shown in one color, text strings shown in another color. Indentation adds different left-indent to various blocks in the code. This makes editing computer programs very efficient and less error prone. Both features of Emacs are shown in the screenshot.
 
